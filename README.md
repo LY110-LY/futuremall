@@ -27,7 +27,7 @@
 
     4、仓库维护
 
-<div align=center> <img src="仓库维护.png" width="500px" height="600px"/>
+<div align=center> <img src="仓库维护.png" width="500px" height="300px"/>
 </div>
 
     5、销售属性
