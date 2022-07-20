@@ -69,6 +69,16 @@ futuremall<br>
 | OSS                | 对象云存储               | https://github.com/aliyun/aliyun-oss-java-sdk   |
 
 
+| 工具          | 简介                    | 官方网站                                        |
+| ------------- | ----------------------- | ----------------------------------------------- |
+| IntelliJ IDEA | Java开发工具            | https://www.jetbrains.com/idea/download         |
+| RedisDesktop  | Redis缓存连接可视化工具 | https://redisdesktop.com/download               |
+| X-shell       | Linux远程连接可视化工具 | http://www.netsarang.com/download/software.html |
+| Navicat       | 数据库连接工具          | http://www.formysql.com/xiazai.html             |
+| Postman       | 接口测试工具            | https://www.postman.com                         |
+| Jmeter        | 压力测试工具            | https://jmeter.apache.org                       |
+| Typora        | Markdown编辑器          | https://typora.io                               |
+
 
 
 
