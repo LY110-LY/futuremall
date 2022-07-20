@@ -17,7 +17,7 @@
 
     2、三级分类
 
-<div align=center> <img src="三级分类.png" width="500px" />
+<div align=center> <img src="三级分类.png" width="500px" hight="300px"/>
 </div>
 
     3、菜单管理
