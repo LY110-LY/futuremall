@@ -22,22 +22,22 @@
 
     3、菜单管理
 
-<div align=center> <img src="菜单管理.png" width="500px" />
+<div align=center> <img src="菜单管理.png" width="500px" hight="300px"/>
 </div>
 
     4、仓库维护
 
-<div align=center> <img src="仓库维护.png" width="500px" />
+<div align=center> <img src="仓库维护.png" width="500px" hight="300px"/>
 </div>
 
     5、销售属性
 
-<div align=center> <img src="销售属性.png" width="500px" />
+<div align=center> <img src="销售属性.png" width="500px" hight="300px"/>
 </div>
 
     6、仓库维护
 
-<div align=center> <img src="仓库维护.png" width="500px" />
+<div align=center> <img src="仓库维护.png" width="500px" hight="300px"/>
 </div>
 
 
