@@ -44,15 +44,15 @@
 ## 三、项目结构
 
 futuremall
-├── futuremall-common -- 工具类及通用代码
-├── futuremall-coupon -- 优惠卷服务
-├── futuremall-gateway -- 统一配置网关
-├── futuremall-order -- 订单服务
-├── futuremall-product -- 商品服务
-├── futuremall-search -- 检索服务
-├── futuremall-third-party -- 第三方服务
-├── futuremall-ware -- 仓储服务
-├── futuremall-member -- 会员服务
+├── futuremall-common -- 工具类及通用代码<br>
+├── futuremall-coupon -- 优惠卷服务<br>
+├── futuremall-gateway -- 统一配置网关<br>
+├── futuremall-order -- 订单服务<br>
+├── futuremall-product -- 商品服务<br>
+├── futuremall-search -- 检索服务<br>
+├── futuremall-third-party -- 第三方服务<br>
+├── futuremall-ware -- 仓储服务<br>
+├── futuremall-member -- 会员服务<br>
 └── renren-generator -- 人人开源项目的代码生成器
 
 
