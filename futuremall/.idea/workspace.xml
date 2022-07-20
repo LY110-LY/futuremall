@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dac51bd7-928c-4ff1-b569-1a8f61b1c080" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/futuremall/renren-fast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/futuremall/renren-generator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-coupon/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-coupon/src/main/java/com/zjgsu/gulimall/gulimallcoupon/GulimallCouponApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-coupon/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-coupon/src/test/java/com/zjgsu/gulimall/gulimallcoupon/GulimallCouponApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-member/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-member/src/main/java/com/zjgsu/gulimall/gulimallmember/GulimallMemberApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-member/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-member/src/test/java/com/zjgsu/gulimall/gulimallmember/GulimallMemberApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-order/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-order/src/main/java/com/zjgsu/gulimall/gulimallorder/GulimallOrderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-order/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-order/src/test/java/com/zjgsu/gulimall/gulimallorder/GulimallOrderApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-product/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-product/src/main/java/com/zjgsu/gulimall/gulimallproduct/GulimallProductApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-product/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-product/src/test/java/com/zjgsu/gulimall/gulimallproduct/GulimallProductApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-ware/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-ware/src/main/java/com/zjgsu/gulimall/gulimallware/GulimallWareApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-ware/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/gulimall-ware/src/test/java/com/zjgsu/gulimall/gulimallware/GulimallWareApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/futuremall/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/renren-fast/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/futuremall/renren-fast/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/renren-fast/src/main/java/io/renren/RenrenApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/futuremall/renren-fast/src/main/java/io/renren/RenrenApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/renren-fast/src/main/java/io/renren/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/futuremall/renren-fast/src/main/java/io/renren/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/renren-fast/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/futuremall/renren-fast/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/renren-fast/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/futuremall/renren-fast/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/renren-generator/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/futuremall/renren-generator/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/renren-generator/src/main/resources/generator.properties" beforeDir="false" afterPath="$PROJECT_DIR$/futuremall/renren-generator/src/main/resources/generator.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futuremall/renren-generator/src/main/resources/template/Controller.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/futuremall/renren-generator/src/main/resources/template/Controller.java.vm" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/futuremall" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\software\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CC7NC32gcNCL6Z1rWMN79gfgZD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24201356" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.RenrenApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="futuremall" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="futuremall" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-coupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zjgsu.gulimall.coupon.FuturemallCouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zjgsu.gulimall.member.GulimallMemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zjgsu.gulimall.order.GulimallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zjgsu.gulimall.product.GulimallProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-ware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zjgsu.gulimall.ware.GulimallWareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-fast" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dac51bd7-928c-4ff1-b569-1a8f61b1c080" name="Default Changelist" comment="" />
+      <created>1658294671107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658294671107</updated>
+      <workItem from="1658294672201" duration="683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/futuremall/futuremall.iml" filepath="$PROJECT_DIR$/futuremall/futuremall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/futuremall/futuremall-common/futuremall-common.iml" filepath="$PROJECT_DIR$/futuremall/futuremall-common/futuremall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/futuremall/futuremall-coupon/gulimall-coupon.iml" filepath="$PROJECT_DIR$/futuremall/futuremall-coupon/gulimall-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/futuremall/futuremall-member/gulimall-member.iml" filepath="$PROJECT_DIR$/futuremall/futuremall-member/gulimall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/futuremall/futuremall-order/gulimall-order.iml" filepath="$PROJECT_DIR$/futuremall/futuremall-order/gulimall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/futuremall/futuremall-product/gulimall-product.iml" filepath="$PROJECT_DIR$/futuremall/futuremall-product/gulimall-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/futuremall/futuremall-ware/gulimall-ware.iml" filepath="$PROJECT_DIR$/futuremall/futuremall-ware/gulimall-ware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/futuremall/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/futuremall/renren-fast/renren-fast.iml" />
+    </modules>
+  </component>
+</project>
