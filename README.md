@@ -3,25 +3,16 @@
 
 ## 一、项目简介
 
-​		本项目使用python语言编译，结构框架采用PyTorch深度学习框架。给定一张艺术风格图片Figure_style和内容图片Figure_content，我们使用卷积神经网络将图像Figure_content的内容与另一个图像Figure_style的风格相结合，生成具备Figure_style风格和Figure_content内容的图片Figure_mix。
+        本项目是一套电商系统。基于Spring + SpringBoot + Mybatis-Plus + SpringCloud + SpringCloudAlibaba实现，采用Docker容器部署，搜索引擎使用Elasticsearch。台商城系统包括：用户登录、注册、商品搜索、商品详情、购物车、下订单流程等模块。后台管理系统包括：系统管理、商品系统、优惠营销、库存系统、订单系统、用户系统、内容管理等七大模块。
 
-## 二、项目示例
 
-下面是一个风格迁移的实例，将梵高《星夜》的艺术风格映射到我们平时生活中的图片内容中。
+## 二、项目演示
 
-​	1、风格图片《星夜》Figure_style:
+后端登录界面部分演示
 
-<div align=center> <img src="https://images.gitee.com/uploads/images/2021/0528/094554_79ca8c94_9113326.jpeg" width="500px" />
-</div>
+    1、
 
-​	2、平时生活中随机拍到的一张内容图片Figure_content：
-
-<div align=center> <img src="https://images.gitee.com/uploads/images/2021/0527/212545_d9737bd9_9113326.jpeg" width="500px" height="650" />
-</div>
-
-​	3、经过风格迁移后生成的带有《星夜》风格的生活图片Figure_mix：
-
-<div align=center> <img src="https://images.gitee.com/uploads/images/2021/0527/212624_4b4cd744_9113326.png" width="500px" height="650" />
+<div align=center> <img src="三级分类.png" width="500px" />
 </div>
 
 
