@@ -3,51 +3,57 @@
 
 ## 一、项目简介
 
->  本项目是一套电商系统。基于Spring + SpringBoot + Mybatis-Plus + SpringCloud + SpringCloudAlibaba实现，采用Docker容器部署，搜索引擎使用Elasticsearch。<br>前台商城系统包括：用户登录、注册、商品搜索、商品详情、购物车、下订单流程等模块。后台管理系统包括：系统管理、商品系统、优惠营销、库存系统、订单系统、用户系统、内容管理等七大模块。
+>本项目是一套电商系统。基于Spring + SpringBoot + Mybatis-Plus + SpringCloud + SpringCloudAlibaba实现，采用Docker容器部署，搜索引擎使用Elasticsearch。<br>前台商城系统包括：用户登录、注册、商品搜索、商品详情、购物车、下订单流程等模块。后台管理系统包括：系统管理、商品系统、优惠营销、库存系统、订单系统、用户系统、内容管理等七大模块。
 
 
 ## 二、项目演示
 
 后端登录界面部分演示
 
-    1、
+    1、登录界面
+
+<div align=center> <img src="登录界面.png" width="500px" />
+</div>
+
+    2、三级分类
 
 <div align=center> <img src="三级分类.png" width="500px" />
 </div>
 
+    3、菜单管理
+
+<div align=center> <img src="菜单管理.png" width="500px" />
+</div>
+
+    4、仓库维护
+
+<div align=center> <img src="仓库维护.png" width="500px" />
+</div>
+
+    5、销售属性
+
+<div align=center> <img src="销售属性.png" width="500px" />
+</div>
+
+    6、仓库维护
+
+<div align=center> <img src="仓库维护.png" width="500px" />
+</div>
 
 
-## 三、其他测试
+## 三、项目结构
 
-​	下面展示一些不同参数设置的风格迁移结果(Test)：
-
-​		Figure_style 
-
-<center class="half">    
-    <img src="https://gitee.com/give-it-to-me/softwareEngineering/raw/master/examples/inputs/frida_kahlo.jpg" width="300" height="400"/>    
-    <img src="https://gitee.com/give-it-to-me/softwareEngineering/raw/master/examples/inputs/picasso_selfport1907.jpg" width="300" height="400"/> 
-    <img src="https://gitee.com/give-it-to-me/softwareEngineering/raw/master/examples/inputs/escher_sphere.jpg" width="300" height="400"/> 
-</center>
-
-
-
-
-Figure_content：
-
-<center class="half">    
-    <img src="https://gitee.com/give-it-to-me/softwareEngineering/raw/master/examples/inputs/input_fch.jpg" width="300" height="400"/>    
-    <img src="https://gitee.com/give-it-to-me/softwareEngineering/raw/master/examples/inputs/input_wj.jpg" width="300" height="400"/> 
-    <img src="https://gitee.com/give-it-to-me/softwareEngineering/raw/master/examples/inputs/input_jh.jpg" width="300" height="400"/> 
-</center>
-
-
-​	Figure_mix：
-
-<center class="half">    
-    <img src="https://gitee.com/give-it-to-me/softwareEngineering/raw/master/output_fch.png" width="300" height="400"/>    
-    <img src="https://gitee.com/give-it-to-me/softwareEngineering/raw/master/output_wj.png" width="300" height="400"/> 
-    <img src="https://gitee.com/give-it-to-me/softwareEngineering/raw/master/output_jh.png" width="300" height="400"/> 
-</center>
+futuremall
+├── futuremall-common -- 工具类及通用代码
+├── futuremall-coupon -- 优惠卷服务
+├── futuremall-gateway -- 统一配置网关
+├── futuremall-order -- 订单服务
+├── futuremall-product -- 商品服务
+├── futuremall-search -- 检索服务
+├── futuremall-third-party -- 第三方服务
+├── futuremall-ware -- 仓储服务
+├── futuremall-member -- 会员服务
+└── renren-generator -- 人人开源项目的代码生成器
 
 
 
