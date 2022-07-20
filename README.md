@@ -43,7 +43,7 @@
 
 ## 三、项目结构
 
-futuremall
+futuremall<br>
 ├── futuremall-common -- 工具类及通用代码<br>
 ├── futuremall-coupon -- 优惠卷服务<br>
 ├── futuremall-gateway -- 统一配置网关<br>
