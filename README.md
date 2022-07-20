@@ -17,27 +17,27 @@
 
     2、三级分类
 
-<div align=center> <img src="三级分类.png" width="500px" hight="300"/>
+<div align=center> <img src="三级分类.png" width="500px" />
 </div>
 
     3、菜单管理
 
-<div align=center> <img src="菜单管理.png" width="500px" hight="300px"/>
+<div align=center> <img src="菜单管理.png" width="500px" />
 </div>
 
     4、仓库维护
 
-<div align=center> <img src="仓库维护.png" width="500px" height="250px"/>
+<div align=center> <img src="仓库维护.png" width="500px" />
 </div>
 
     5、销售属性
 
-<div align=center> <img src="销售属性.png" width="500px" hight="300px"/>
+<div align=center> <img src="销售属性.png" width="500px" />
 </div>
 
     6、仓库维护
 
-<div align=center> <img src="仓库维护.png" width="500px" hight="300px"/>
+<div align=center> <img src="仓库维护.png" width="500px" />
 </div>
 
 
@@ -54,6 +54,19 @@ futuremall<br>
 ├── futuremall-ware -- 仓储服务<br>
 ├── futuremall-member -- 会员服务<br>
 └── renren-generator -- 人人开源项目的代码生成器
+
+| 技术栈             | 简介                     | 官方网站                                        |
+| ------------------ | ------------------------ | ----------------------------------------------- |
+| SpringBoot         | 容器+MVC框架             | https://spring.io/projects/spring-boot          |
+| SpringCloud        | 微服务，分布式           | https://spring.io/projects/spring-cloud         |
+| SpringCloudAlibaba | 组件                     | https://spring.io/projects/spring-cloud-alibaba |
+| MyBatis-Plus       | ORM框架                  | https://mp.baomidou.com                         |
+| renren-generator   | 人人开源项目的代码生成器 | https://gitee.com/renrenio/renren-generator     |
+| Elasticsearch      | 搜索引擎                 | https://github.com/elastic/elasticsearch        |
+| Springsession      | 分布式缓存               | https://projects.spring.io/spring-session       |
+| Redisson           | 分布式锁                 | https://github.com/redisson/redisson            |
+| Docker             | 容器                     | https://www.docker.com                          |
+| OSS                | 对象云存储               | https://github.com/aliyun/aliyun-oss-java-sdk   |
 
 
 
